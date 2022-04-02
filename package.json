@@ -1,0 +1,19 @@
+{
+  "name": "servidorsabado2022",
+  "version": "1.0.0",
+  "description": "api rest de prueba con js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cesde",
+    "api",
+    "avanzada"
+  ],
+  "author": "HYYB",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
